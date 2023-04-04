@@ -3,7 +3,7 @@ text to speech
 
 You can directly input the text after running the python code in ui interface and click on play button to listen the speech
 --> you can directly exit from ui by clicking Exit
---> you can also enter new text directly in text field or u can use clear button
+--> you can also enter new text directly in text field or u can use "RESET" button
 
 speech to text
 ---------------
